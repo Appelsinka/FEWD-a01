@@ -16,4 +16,5 @@ There I go:
 
 Here the picture of the Big Bear mountaint, where I come often.  
 ![picture](https://www.facebook.com/photo.php?fbid=1541534559276452&set=rpd.100002597688596&type=3&theater)
-Here my [facebook profile](https://www.facebook.com/maria.liakh)
+
+Here my **[facebook profile](https://www.facebook.com/maria.liakh)

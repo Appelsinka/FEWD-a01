@@ -6,8 +6,10 @@ FEWD assigment 1
 ### Hi!  
 My name is **Maria Liakh**. I like to read different type of  books and swim in the ocean.
 I also love rainy weather and snow. But it not much of these in _**San Diego:)**_
-So, to enjoy it I often go to the mountains.
-There I go:
+So, to enjoy it I often go to the mountains.  
+
+There I go:  
+
 1.Mountainbiking
 2.Skiing
 3.Hiking

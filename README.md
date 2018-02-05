@@ -15,5 +15,5 @@ There I go:
 3. Hiking
 
 Here the picture of the Big Bear mountaint, where I come often.  
-![picture](https://search.tb.ask.com/search/AJimage.jhtml?&n=78486524&p2=%5ECAM%5Exdm100%5ES25095%5Eus&pg=AJimage&pn=1&ptb=8A4E1D68-22C1-4334-AF23-B7373AC8BF49&qs=&searchfor=big+bear+mountain&si=32414072884&ss=sub&st=sb&tpr=sbt&imgs=1p&filter=on&imgDetail=true)
+![picture](https://www.facebook.com/photo.php?fbid=1541534559276452&set=rpd.100002597688596&type=3&theater)
 Here my [facebook profile](https://www.facebook.com/maria.liakh)

@@ -13,7 +13,8 @@ There I go:
 1. Mountainbiking
 2. Skiing
 3. Hiking
-Here the picture of the Big Bear mountaint, where I come often.  
+Here the picture of the Big Bear mountaint, where I come often.
+
 ![BIG BEAR picture](https://www.facebook.com/photo.php?fbid=1541534559276452&set=rpd.100002597688596&type=3&theater)
 
 Here my [Facebook profile](https://www.facebook.com/maria.liakh)

@@ -12,6 +12,6 @@ There I go:
 2.Skiing
 3.Hiking
 
-Here the picture of me in the Big Bear.
+Here the picture of me in the Big Bear.  
 ![my picture](https://www.facebook.com/photo.php?fbid=1541534209276487&set=a.347736758656244.79019.100002597688596&type=3&theater)
 Here my [facebook profile]( https://www.facebook.com/maria.liakh)
